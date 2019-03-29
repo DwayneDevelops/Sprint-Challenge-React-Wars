@@ -1,0 +1,9 @@
+.characters {
+    height: auto;
+    width: 50%;
+    margin: 1% auto;
+    border: 1px solid blue;
+    border-radius: 5px;
+    background-color: lightcoral;
+    font-size: 1.2rem;
+}
